@@ -49,6 +49,12 @@ Check for firmware updates in the web settings. When the station finds a verifie
 
 ## Touchscreen previews
 
-Illustrations of the Room and Clock dashboards using sample readings. Tap Clock to reveal its navigation arrows.
+These captures come from the firmware's desktop simulator and use sample readings.
 
-![Illustrated preview of the Room and Clock dashboards](docs/touchscreen-preview.png)
+| Room | Trends |
+| --- | --- |
+| ![Room dashboard](docs/touchscreen-room.png) | ![Trends dashboard](docs/touchscreen-trends.png) |
+
+| Forecast | Clock |
+| --- | --- |
+| ![Forecast dashboard](docs/touchscreen-forecast.png) | ![Clock dashboard](docs/touchscreen-clock.png) |
